@@ -24,8 +24,8 @@ const DUMMY_PLACES = [
       "http://1.bp.blogspot.com/_l5YBdUJdaDM/TPTslKsDOtI/AAAAAAAAASU/fN3S1vmnSHk/s1600/empire_state_building1.jpg",
     address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: -23.0073844,
-      lng: -43.3671822
+      lat: 40.748441,
+      lng: -73.985664
     },
     creator: "u2"
   }
