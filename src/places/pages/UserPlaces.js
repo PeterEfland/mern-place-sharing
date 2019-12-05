@@ -18,7 +18,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "Empire State Building",
+    title: "Emp. State Building",
     description: "One of the most famous sky scrapers in the world!",
     imageUrl:
       "http://1.bp.blogspot.com/_l5YBdUJdaDM/TPTslKsDOtI/AAAAAAAAASU/fN3S1vmnSHk/s1600/empire_state_building1.jpg",
